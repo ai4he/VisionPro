@@ -1,0 +1,15 @@
+{
+    "name": "org.nuget.netstandard.library",
+    "version": "1.6.1",
+    "displayName": "NETStandard.Library",
+    "description": "A set of standard .NET APIs that are prescribed to be used and supported together. This includes all of the APIs in the NETStandard.Platform package plus additional libraries that are core to .NET but built on top of NETStandard.Platform. \nWhen using NuGet 3.x this package requires at least version 3.4.",
+    "unity": "2018.3",
+    "keywords": [
+        ""
+    ],
+    "author": {
+        "name": "Microsoft",
+        "email": "",
+        "url": "https://dot.net/"
+    }
+}

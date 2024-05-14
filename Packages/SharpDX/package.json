@@ -1,0 +1,20 @@
+{
+    "name": "org.nuget.sharpdx",
+    "version": "4.2.0",
+    "displayName": "SharpDX",
+    "description": "Core assembly for all SharpDX assemblies.",
+    "unity": "2018.3",
+    "keywords": [
+        "SharpDX",
+        "DirectX",
+        "Direct3D",
+        "Multimedia",
+        "MDX",
+        "3D"
+    ],
+    "author": {
+        "name": "Alexandre Mutel",
+        "email": "",
+        "url": "http://sharpdx.org/"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "org.nuget.sharpdx.direct3d11",
+    "version": "4.2.0",
+    "displayName": "SharpDX.Direct3D11",
+    "description": "Assembly providing DirectX - Direct3D11, Direct3D11.1 and Effects11 managed API.",
+    "unity": "2018.3",
+    "keywords": [
+        "SharpDX",
+        "DirectX",
+        "Direct3D",
+        "Multimedia",
+        "MDX",
+        "3D",
+        "Direct3D11",
+        "D3D11",
+        "Effects11"
+    ],
+    "author": {
+        "name": "Alexandre Mutel",
+        "email": "",
+        "url": "http://sharpdx.org/"
+    }
+}

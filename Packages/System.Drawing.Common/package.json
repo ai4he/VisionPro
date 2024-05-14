@@ -1,0 +1,15 @@
+{
+    "name": "org.nuget.system.drawing.common",
+    "version": "7.0.0",
+    "displayName": "System.Drawing.Common",
+    "description": "Provides access to GDI+ graphics functionality.\n\nCommonly Used Types:\nSystem.Drawing.Bitmap\nSystem.Drawing.BitmapData\nSystem.Drawing.Brush\nSystem.Drawing.Font\nSystem.Drawing.Graphics\nSystem.Drawing.Icon\n\nSince .NET 7, non-Windows platforms are not supported, even with the runtime configuration switch. See https://aka.ms/systemdrawingnonwindows for more information.",
+    "unity": "2018.3",
+    "keywords": [
+        ""
+    ],
+    "author": {
+        "name": "Microsoft",
+        "email": "",
+        "url": "https://dot.net/"
+    }
+}

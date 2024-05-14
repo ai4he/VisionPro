@@ -1,0 +1,15 @@
+{
+    "name": "org.nuget.microsoft.netcore.platforms",
+    "version": "1.1.2",
+    "displayName": "Microsoft.NETCore.Platforms",
+    "description": "Provides runtime information required to resolve target framework, platform, and runtime specific implementations of .NETCore packages. \nWhen using NuGet 3.x this package requires at least version 3.4.",
+    "unity": "2018.3",
+    "keywords": [
+        ""
+    ],
+    "author": {
+        "name": "Microsoft",
+        "email": "",
+        "url": "https://dot.net/"
+    }
+}

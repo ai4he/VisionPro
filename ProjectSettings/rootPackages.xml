@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packages xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <package id="SharpDX" version="4.2.0" targetFramework="netstandard1.1" allowedVersions="[4.2.0]" />
+  <package id="SharpDX.Direct3D11" version="4.2.0" targetFramework="netstandard1.1" allowedVersions="[4.2.0]" />
+  <package id="System.Drawing.Common" version="7.0.0" targetFramework="netstandard2.0" allowedVersions="[7.0.0]" />
+</packages>

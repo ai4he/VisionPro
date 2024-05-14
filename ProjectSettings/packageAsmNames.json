@@ -1,0 +1,36 @@
+{
+    "managedList": [
+        {
+            "packageName": "SharpDX",
+            "fileNames": [
+                "SharpDX"
+            ]
+        },
+        {
+            "packageName": "NETStandard.Library",
+            "fileNames": []
+        },
+        {
+            "packageName": "Microsoft.NETCore.Platforms",
+            "fileNames": []
+        },
+        {
+            "packageName": "SharpDX.Direct3D11",
+            "fileNames": [
+                "SharpDX.Direct3D11"
+            ]
+        },
+        {
+            "packageName": "SharpDX.DXGI",
+            "fileNames": [
+                "SharpDX.DXGI"
+            ]
+        },
+        {
+            "packageName": "System.Drawing.Common",
+            "fileNames": [
+                "System.Drawing.Common"
+            ]
+        }
+    ]
+}
